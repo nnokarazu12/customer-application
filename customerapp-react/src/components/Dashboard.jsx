@@ -103,7 +103,7 @@ function Dashboard() {
           color: "#000080",
         }}
       >
-        <h3>Customer List</h3>
+        <h3>Customer Application</h3>
         <div>
           View the current list of customers and update customer information
         </div>
