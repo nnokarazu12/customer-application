@@ -19,6 +19,6 @@ Build and run Spring Boot application
 Run React application
 1. cd customerapp-react
 2. npm install
-3. npm start
+3. npm run dev
 
 Access the app on localhost:3000
